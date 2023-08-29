@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	firebase.google.com/go v3.12.0+incompatible
-	github.com/aws/aws-sdk-go v1.29.29
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/protobuf v1.3.5
 	github.com/google/go-cmp v0.4.0
